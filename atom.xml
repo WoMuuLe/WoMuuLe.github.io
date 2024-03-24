@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-24T06:06:43.992Z</updated>
+  <updated>2024-03-24T06:10:59.810Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2024/03/24/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%20%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D/"/>
     <id>http://example.com/2024/03/24/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%20%E8%99%9A%E6%8B%9F%E5%AE%9A%E4%BD%8D/</id>
     <published>2024-03-24T03:49:39.090Z</published>
-    <updated>2024-03-24T06:06:43.992Z</updated>
+    <updated>2024-03-24T06:10:59.810Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="演示环境"><a href="#演示环境" class="headerlink" title="演示环境"></a>演示环境</h2><p>手机型号：Redmi K50 Pro</p><p>手机系统：MIUI14</p><h2 id="前提准备"><a href="#前提准备" class="headerlink" title="前提准备"></a>前提准备</h2><p>一、获取手机Root权限。</p><p>二、下载<a href="https://github.com/Lerist/FakeLocation">Fake Location</a>。</p><p>三、隐藏Root和Fake Location。</p><h2 id="演示步骤"><a href="#演示步骤" class="headerlink" title="演示步骤"></a>演示步骤</h2><p>一、打开软件，点击左上角菜单按钮，进入路线模拟模式。</p><p>二、点击加号，通过滑动地图来设置路线，设置完成后点击右下角对号保存。</p><p>三、根据实际情况设置速&#x2F;频和循环，模拟人类跑步；点击右上角设置打开模拟GPS浮动和模拟GPS信号（ROOT）。</p><p>![](% img %&#x2F;image&#x2F;1.png)</p><p>四、点击启动模拟，打开运动世界校园开启校园跑。</p><p>五、跑步结束，退出校园跑，关闭路线模拟。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="演示环境"><a href="#演示环境" class="headerlink" title="演示环境"></a>演示环境</h2><p>手机型号：Redmi K50 Pro</p><p>手机系统：MIUI14</p><h2 id="前提准备"><a href="#前提准备" class="headerlink" title="前提准备"></a>前提准备</h2><p>一、获取手机Root权限。</p><p>二、下载<a href="https://github.com/Lerist/FakeLocation">Fake Location</a>。</p><p>三、隐藏Root和Fake Location。</p><h2 id="演示步骤"><a href="#演示步骤" class="headerlink" title="演示步骤"></a>演示步骤</h2><p>一、打开软件，点击左上角菜单按钮，进入路线模拟模式。</p><p>二、点击加号，通过滑动地图来设置路线，设置完成后点击右下角对号保存。</p><p>三、根据实际情况设置速&#x2F;频和循环，模拟人类跑步；点击右上角设置打开模拟GPS浮动和模拟GPS信号（ROOT）。</p><p>![](% img &#x2F;image&#x2F;1.png %)</p><p>四、点击启动模拟，打开运动世界校园开启校园跑。</p><p>五、跑步结束，退出校园跑，关闭路线模拟。</p>]]></content>
     
     
       
