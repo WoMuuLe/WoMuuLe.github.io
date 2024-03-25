@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-25T12:16:36.350Z</updated>
+  <updated>2024-03-25T12:17:23.453Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Windows重装系统</title>
-    <link href="http://example.com/2024/03/25/Windows%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://example.com/2024/03/25/Windows%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/</id>
+    <title>Windows系统重装</title>
+    <link href="http://example.com/2024/03/25/Windows%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A3%85/"/>
+    <id>http://example.com/2024/03/25/Windows%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A3%85/</id>
     <published>2024-03-25T12:15:52.643Z</published>
-    <updated>2024-03-25T12:16:36.350Z</updated>
+    <updated>2024-03-25T12:17:23.453Z</updated>
     
     <content type="html"><![CDATA[<p>一、镜像下载</p><p>进入<a href="https://next.itellyou.cn/Original/"><strong>ITELLYOU</strong></a>网站下载系统镜像。</p><p>二、配置启动盘</p><p>将系统镜像<strong>直接</strong>写入U盘，或通过PE启动盘<strong>间接</strong>安装。</p><p>待续~~~~~~~~~</p>]]></content>
     
