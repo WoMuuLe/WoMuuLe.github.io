@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>LSPosed安装教程</title>
+      <link href="/2024/03/25/LSPosed%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2024/03/25/LSPosed%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前提准备"><a href="#前提准备" class="headerlink" title="前提准备"></a>前提准备</h2><p>安装Magisk，详见<a href="https://womuule.github.io/2022/11/11/Magisk%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/">Magisk安装教程</a>。</p><h2 id="步骤演示"><a href="#步骤演示" class="headerlink" title="步骤演示"></a>步骤演示</h2><p>1、下载LSPosed模块（Zygisk版）：<a href="https://mrzzoxo.lanzoui.com/b02pfsr2f">蓝奏盘</a>丨<a href="https://github.com/LSPosed/LSPosed/releases/latest">GitHub</a><br><em>部分地区打不开 GitHub，可选 蓝奏盘 下载。</em></p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2022/12/4436e36f7fab71b.png" alt="LSPosed 安装教程（LSP框架安装教程）插图"></p><p>2、打开Magisk – 设置 – 开启 Zygisk</p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2022/12/671829d80e15787.jpg" alt="LSPosed 安装教程（LSP框架安装教程）插图1"></p><p>3、打开面具 – 模块 – 从本地安装</p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2022/12/46a9925b02fd0ea.jpg" alt="Shamiko安装（Zygsik Hide 模块）插图1"></p><p>4、重启设备，通知栏 点开（如果没显示，可以通过拨号键输入 ***#*#5776733#*#*** 进入LSPosed）</p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2023/01/d3aa0b5d22146fd.jpg" alt="LSPosed 安装教程（LSP框架安装教程）插图3"></p><p>5、1.创建快捷方式 – 2.状态通知 关闭</p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2023/01/624972fe536e44c.jpg" alt="LSPosed 安装教程（LSP框架安装教程）插图4"></p><p>6、LSPosed 显示“已激活”则成功刷入。</p><p><img src="https://cdn.magiskcn.com/wp-content/uploads/2022/12/ced436fe365f238.jpg" alt="LSPosed 安装教程（LSP框架安装教程）插图5"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 手机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搞机 </tag>
+            
+            <tag> ROOT </tag>
+            
+            <tag> LSPosed </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows系统重装</title>
       <link href="/2024/03/25/Windows%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A3%85/"/>
       <url>/2024/03/25/Windows%E7%B3%BB%E7%BB%9F%E9%87%8D%E8%A3%85/</url>
@@ -72,6 +101,8 @@
             
             <tag> 搞机 </tag>
             
+            <tag> ROOT </tag>
+            
         </tags>
       
     </entry>
@@ -96,6 +127,8 @@
         <tags>
             
             <tag> 搞机 </tag>
+            
+            <tag> ROOT </tag>
             
         </tags>
       
@@ -146,6 +179,8 @@
         <tags>
             
             <tag> 搞机 </tag>
+            
+            <tag> ROOT </tag>
             
         </tags>
       
