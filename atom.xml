@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-25T04:20:57.354Z</updated>
+  <updated>2024-03-25T08:23:43.790Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>运动世界校园路线模拟</title>
+    <link href="http://example.com/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/"/>
+    <id>http://example.com/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/</id>
+    <published>2023-10-18T12:52:50.000Z</published>
+    <updated>2024-03-25T08:23:43.790Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>运动世界校园</strong>是一款鼓励全国高校莘莘学子<del>走出</del><strong>躺在</strong>宿舍，健康生活的<del>运动</del><strong>垃圾</strong>平台。让运动更方便的走入各位学子的日常生活中。运动世界，运动触手可及！</p><p>线路模拟通过<strong>Fake Location</strong>实现，需要手机<strong>ROOT</strong>权限。</p><span id="more"></span><h2 id="演示环境"><a href="#演示环境" class="headerlink" title="演示环境"></a>演示环境</h2><p>手机型号：Redmi K50 Pro</p><p>手机系统：MIUI14</p><h2 id="前提准备"><a href="#前提准备" class="headerlink" title="前提准备"></a>前提准备</h2><p>一、获取手机<strong>ROOT权限</strong>，详见<a href="https://womuule.github.io/2024/03/24/Magisk%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/">Magisk安装教程</a>。</p><p>二、下载<a href="https://github.com/Lerist/FakeLocation/releases"><strong>Fake Location</strong></a>。</p><p>三、<strong>隐藏</strong>ROOT和Fake Location，详见<a href="https://womuule.github.io/2024/03/25/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/">ROOT环境隐藏</a>。</p><h2 id="演示步骤"><a href="#演示步骤" class="headerlink" title="演示步骤"></a>演示步骤</h2><p>一、打开软件，点击左上角菜单按钮，进入<strong>路线模拟</strong>模式。</p><p>二、点击加号，通过滑动地图来设置路线，设置完成后点击右下角对号保存。</p><p>三、根据实际情况设置<strong>速&#x2F;频</strong>和<strong>循环</strong>，模拟人类跑步；点击右上角设置打开<strong>模拟GPS浮动</strong>和<strong>模拟GPS信号（ROOT）</strong>。</p><img src="/image/1.jpg" class="" title="运动世界校园"><p>四、点击启动模拟，打开运动世界校园开启校园跑。</p><p>五、跑步结束，退出校园跑，关闭路线模拟。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;运动世界校园&lt;/strong&gt;是一款鼓励全国高校莘莘学子&lt;del&gt;走出&lt;/del&gt;&lt;strong&gt;躺在&lt;/strong&gt;宿舍，健康生活的&lt;del&gt;运动&lt;/del&gt;&lt;strong&gt;垃圾&lt;/strong&gt;平台。让运动更方便的走入各位学子的日常生活中。运动世界，运动触手可及！&lt;/p&gt;
+&lt;p&gt;线路模拟通过&lt;strong&gt;Fake Location&lt;/strong&gt;实现，需要手机&lt;strong&gt;ROOT&lt;/strong&gt;权限。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="手机" scheme="http://example.com/categories/%E6%89%8B%E6%9C%BA/"/>
+    
+    
+    <category term="技巧" scheme="http://example.com/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>ROOT环境隐藏</title>
@@ -36,28 +58,6 @@
     
     
     <category term="搞机" scheme="http://example.com/tags/%E6%90%9E%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>运动世界校园路线模拟</title>
-    <link href="http://example.com/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/"/>
-    <id>http://example.com/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/</id>
-    <published>2023-10-18T04:52:50.000Z</published>
-    <updated>2024-03-25T08:15:22.894Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>运动世界校园</strong>是一款鼓励全国高校莘莘学子<del>走出</del><strong>躺在</strong>宿舍，健康生活的<del>运动</del><strong>垃圾</strong>平台。让运动更方便的走入各位学子的日常生活中。运动世界，运动触手可及！</p><p>线路模拟通过<strong>Fake Location</strong>实现，需要手机<strong>ROOT</strong>权限。</p><span id="more"></span><h2 id="演示环境"><a href="#演示环境" class="headerlink" title="演示环境"></a>演示环境</h2><p>手机型号：Redmi K50 Pro</p><p>手机系统：MIUI14</p><h2 id="前提准备"><a href="#前提准备" class="headerlink" title="前提准备"></a>前提准备</h2><p>一、获取手机<strong>ROOT权限</strong>，详见<a href="https://womuule.github.io/2024/03/24/Magisk%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/">Magisk安装教程</a>。</p><p>二、下载<a href="https://github.com/Lerist/FakeLocation/releases"><strong>Fake Location</strong></a>。</p><p>三、<strong>隐藏</strong>ROOT和Fake Location，详见<a href="https://womuule.github.io/2024/03/25/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/">ROOT环境隐藏</a>。</p><h2 id="演示步骤"><a href="#演示步骤" class="headerlink" title="演示步骤"></a>演示步骤</h2><p>一、打开软件，点击左上角菜单按钮，进入<strong>路线模拟</strong>模式。</p><p>二、点击加号，通过滑动地图来设置路线，设置完成后点击右下角对号保存。</p><p>三、根据实际情况设置<strong>速&#x2F;频</strong>和<strong>循环</strong>，模拟人类跑步；点击右上角设置打开<strong>模拟GPS浮动</strong>和<strong>模拟GPS信号（ROOT）</strong>。</p><img src="/image/1.jpg" class="" title="运动世界校园"><p>四、点击启动模拟，打开运动世界校园开启校园跑。</p><p>五、跑步结束，退出校园跑，关闭路线模拟。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;运动世界校园&lt;/strong&gt;是一款鼓励全国高校莘莘学子&lt;del&gt;走出&lt;/del&gt;&lt;strong&gt;躺在&lt;/strong&gt;宿舍，健康生活的&lt;del&gt;运动&lt;/del&gt;&lt;strong&gt;垃圾&lt;/strong&gt;平台。让运动更方便的走入各位学子的日常生活中。运动世界，运动触手可及！&lt;/p&gt;
-&lt;p&gt;线路模拟通过&lt;strong&gt;Fake Location&lt;/strong&gt;实现，需要手机&lt;strong&gt;ROOT&lt;/strong&gt;权限。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="手机" scheme="http://example.com/categories/%E6%89%8B%E6%9C%BA/"/>
-    
-    
-    <category term="技巧" scheme="http://example.com/tags/%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   

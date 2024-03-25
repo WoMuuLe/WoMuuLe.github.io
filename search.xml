@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>ROOT环境隐藏</title>
-      <link href="/2023/10/18/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/"/>
-      <url>/2023/10/18/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/</url>
-      
-        <content type="html"><![CDATA[<p>一、下载<a href="https://github.com/LSPosed/LSPosed.github.io/releases">shamiko</a>。</p><p>二、打开magisk，进入模块界面，从本地安装，安装完成后重启手机。</p><p>三、进入magisk设置界面关闭遵循排除列表，进入配置排除列表界面，找到需要隐藏root的软件，先展开后打勾。</p><span id="more"></span>]]></content>
-      
-      
-      <categories>
-          
-          <category> 手机 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 搞机 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>运动世界校园路线模拟</title>
       <link href="/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/"/>
       <url>/2023/10/18/%E8%BF%90%E5%8A%A8%E4%B8%96%E7%95%8C%E6%A0%A1%E5%9B%AD%E8%B7%AF%E7%BA%BF%E6%A8%A1%E6%8B%9F/</url>
@@ -46,6 +21,31 @@
         <tags>
             
             <tag> 技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ROOT环境隐藏</title>
+      <link href="/2023/10/18/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/"/>
+      <url>/2023/10/18/ROOT%E7%8E%AF%E5%A2%83%E9%9A%90%E8%97%8F/</url>
+      
+        <content type="html"><![CDATA[<p>一、下载<a href="https://github.com/LSPosed/LSPosed.github.io/releases">shamiko</a>。</p><p>二、打开magisk，进入模块界面，从本地安装，安装完成后重启手机。</p><p>三、进入magisk设置界面关闭遵循排除列表，进入配置排除列表界面，找到需要隐藏root的软件，先展开后打勾。</p><span id="more"></span>]]></content>
+      
+      
+      <categories>
+          
+          <category> 手机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搞机 </tag>
             
         </tags>
       
